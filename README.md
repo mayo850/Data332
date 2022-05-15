@@ -15,28 +15,19 @@ Raw data was provided in the form of .csv and .xlsx, the contributers used R Stu
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* R or R Studio the collaborators of this project specifically used R Studio.
+* Collaborator who worked on the Ladybug project used a Mac.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* https://www.rstudio.com/
+* Download R Studio from the aforementioned website.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Just download the library mentioned and run the program, it's as simple as that.
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
@@ -44,8 +35,20 @@ Izan Khan
 izankhan18@augustana.edu
 309-317-5552
 
-Author 2
+Umer Aziz
 
-Author 3
+Chinh Nguyen
 
 # Code Snippets
+Graph showing Species count by plot type:
+<img width="949" alt="Count_Species_Plot" src="https://user-images.githubusercontent.com/90479591/168454969-751d44fb-a528-487f-abb7-f2ebb40dd0b4.png">
+
+Graph Showing Species Count by indentifier:
+<img width="949" alt="Graph_Identifier" src="https://user-images.githubusercontent.com/90479591/168454974-8e435237-3705-49a8-8484-c9bfc8490cdb.png">
+
+Graph showing species count based on State/Province
+<img width="947" alt="StackedGraph_States" src="https://user-images.githubusercontent.com/90479591/168454978-9b9fdeca-b08e-4f0b-8c90-80fa0b1f4d01.png">
+
+
+
+
