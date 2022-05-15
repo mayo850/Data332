@@ -38,6 +38,8 @@ izankhan18@augustana.edu
 Umer Aziz
 
 Chinh Nguyen
+chinhnguyen19@augustana.edu
+571-531-2728
 
 # Code Snippets
 Graph showing Species count by plot type:
