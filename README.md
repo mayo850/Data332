@@ -51,6 +51,15 @@ Graph Showing Species Count by indentifier:
 Graph showing species count based on State/Province
 <img width="947" alt="StackedGraph_States" src="https://user-images.githubusercontent.com/90479591/168454978-9b9fdeca-b08e-4f0b-8c90-80fa0b1f4d01.png">
 
+Graph showing Maximum RW length by years: 
+![Line Chart of Maximum RW length by years](https://user-images.githubusercontent.com/61089434/168660025-4a7991db-ae9e-4267-b04d-5497ab9f35d2.png)
+
+Graph showing mean of LW Apex by country: 
+![Mean of LW Apex by country](https://user-images.githubusercontent.com/61089434/168660060-35058032-e176-45e9-91a8-11494d594c00.png)
+
+Graph showing mean of LW width by gender: 
+![Mean of LW width by gender](https://user-images.githubusercontent.com/61089434/168660100-a8173d14-8202-4424-81a3-2628679c72e6.png)
+
 
 
 
