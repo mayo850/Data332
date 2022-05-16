@@ -7,13 +7,16 @@ library(Hmisc)
 
 rm(list = ls())
 
+# set up the directory
 setwd("C:/Users/chinh/Junior class code only/DATA-332-01/Butterfly R")
 
+# add the files
 df_cleanButterfly <- read_excel("Data/Cleaned Data LWA .xlsx", sheet = 1)
 df_originalButterfly <- read_excel("Data/CompletePierisData_2022-03-09.xlsx", sheet = 1)
 
 df_newCleanButterfly <- df_cleanButterfly[-c(51), ]
 
+# filter the data
 LWwidthMale <- df_newCleanButterfly %>%
   dplyr::filter(sex=='male') %>%
   dplyr::select('sex', 'LW width')
@@ -28,6 +31,7 @@ mean_LWwidthFemale <- round(mean(LWwidthFemale$'LW width'), digits = 3)
 
 mean_LWwidth <- data.frame(gender=c("Female", "Male"), width=c(mean_LWwidthFemale, mean_LWwidthMale))
 
+# creating the graph
 ggplot(mean_LWwidth, aes(x=gender, y=width))+
   geom_bar(stat="identity", fill="steelblue")+
   geom_text(aes(label=width), vjust=-0.3, size=3.5)+
@@ -58,7 +62,7 @@ ggplot(countryLWapexMean, aes(x=Country, y=Mean))+
   ylim(0,12)+
   labs(title = "Mean of LW Apex by country")
 
-
+# select the data for the graph
 df_RWlengthByYear <- df_butterflyAllColumns %>%
   dplyr::select('dwc:year', 'RW length')
 
@@ -73,7 +77,7 @@ lastseventyfive_years <- year_ascendingorder %>%
 RWlengthgroupby_year <- data.frame(aggregate(lastseventyfive_years$`RW length`, 
                                              by = list(lastseventyfive_years$Years),
                                              max))
-
+# create the graph 
 names(RWlengthgroupby_year)[1] <- 'Year'
 names(RWlengthgroupby_year)[2] <- 'Max_RW_Length'
 
