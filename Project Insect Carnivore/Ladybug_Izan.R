@@ -7,7 +7,6 @@ library(tidytext)
 library(hrbrthemes)
 library(viridis)
 
-
 setwd("/Users/izankhan/Desktop/Project-Insect-Carnivore-main/data")
 ladybug_clean <- read_excel ("Ladybug Data.xlsx", sheet = 1)
 ladybug_scan <- read.csv("Scan Ladybug Data.csv")
@@ -71,11 +70,6 @@ class(ladybug_clean)
 tail(ladybug_clean)
 
 
-
-
-
- 
-
 #plot
 summary(ladybug_clean$Species)
 
@@ -118,7 +112,6 @@ ladybug_state <- ladybug_state %>%
   dplyr::mutate(stateProvince = ifelse((stateProvince == 'IA') | (stateProvince == 'Ia') , 'Iowa', stateProvince))%>%
   
   dplyr::select('Species', 'plot','stateProvince')
-
 
 ladybug_state_count <- ladybug_state %>%
   count(stateProvince, Species)
