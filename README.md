@@ -46,6 +46,7 @@ Azee
 VISUALIZATIONS FOR LADY BUG DATASET
 
 Graph showing Species count by plot type:
+  The following graph shows the count of different species, grouping by plot kind. Plots are as followed; LP-AG, LP-GA, LP-GF, LP-GM, LP-GU, LP-IC and LP-PR
 <img width="949" alt="Count_Species_Plot" src="https://user-images.githubusercontent.com/90479591/168454969-751d44fb-a528-487f-abb7-f2ebb40dd0b4.png">
 
 Graph Showing Species Count by indentifier:
