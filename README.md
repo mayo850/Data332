@@ -52,8 +52,8 @@ umeraziz19@augustana.edu
 Azee
 571-531-2728
 
-# Code Snippets
-VISUALIZATIONS FOR LADY BUG DATASET
+### Code Snippets
+# VISUALIZATIONS FOR LADY BUG DATASET
 
 Graph showing Species count by plot type:
   This graph represents count of different species grouped by their plot, i.e. LP-AG, LP-GA, LP-GF, LP-GM, LP-GU, LP-IC and LP-PR. The graph was further sorted by number and the names of species were modified to eliminate spelling errors.
@@ -71,7 +71,7 @@ Graph showing species count based on State/Province:
 <img width="945" alt="Screen Shot 2022-05-17 at 5 53 37 PM" src="https://user-images.githubusercontent.com/90479591/168925207-baa7e86a-170b-453b-9463-284debaa3969.png">
 
 
-VISUALIZATIONS FOR BUTTERFLY DATASET
+# VISUALIZATIONS FOR BUTTERFLY DATASET
 
 Line chart showing Maximum RW length by years:
 
