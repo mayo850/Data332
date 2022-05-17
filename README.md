@@ -56,13 +56,18 @@ Azee
 VISUALIZATIONS FOR LADY BUG DATASET
 
 Graph showing Species count by plot type:
+  This graph represents count of different species grouped by their plot, i.e. LP-AG, LP-GA, LP-GF, LP-GM, LP-GU, LP-IC and LP-PR. The graph was further sorted by number and the names of species were modified to eliminate spelling errors.
+  
 <img width="949" alt="Count_Species_Plot" src="https://user-images.githubusercontent.com/90479591/168454969-751d44fb-a528-487f-abb7-f2ebb40dd0b4.png">
 
 Graph Showing Species Count by indentifier:
+  This graph counts species according to their identifier. The purpose the graph serves is so anyone who wants to ask questions about a certain species they could just look at the visualization provided and could ask the identifier any question they have.
+  
 <img width="949" alt="Graph_Identifier" src="https://user-images.githubusercontent.com/90479591/168454974-8e435237-3705-49a8-8484-c9bfc8490cdb.png">
 
 Graph showing species count based on State/Province:
-
+  This last visualization is a graph that shows the number of species and the state they were found on. This could tell the audience which side of the river a specific species is found more on.
+  
 <img width="945" alt="Screen Shot 2022-05-17 at 5 53 37 PM" src="https://user-images.githubusercontent.com/90479591/168925207-baa7e86a-170b-453b-9463-284debaa3969.png">
 
 
