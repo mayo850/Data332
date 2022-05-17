@@ -56,7 +56,7 @@ Graph showing species count based on State/Province
 
 VISUALIZATIONS FOR BUTTERFLY DATASET
 
-Graph showing Maximum RW length by years: 
+Line chart showing Maximum RW length by years: 
 ![Line Chart of Maximum RW length by years](https://user-images.githubusercontent.com/61089434/168660025-4a7991db-ae9e-4267-b04d-5497ab9f35d2.png)
 
 Graph showing mean of LW Apex by country: 
