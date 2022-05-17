@@ -36,12 +36,14 @@ izankhan18@augustana.edu
 309-317-5552
 
 Umer Aziz
+umeraziz19@augustana.edu
+312-912-1766
 
-Chinh Nguyen
-chinhnguyen19@augustana.edu
+Azee
 571-531-2728
 
 # Code Snippets
+VISUALIZATIONS FOR LADY BUG DATASET
 Graph showing Species count by plot type:
 <img width="949" alt="Count_Species_Plot" src="https://user-images.githubusercontent.com/90479591/168454969-751d44fb-a528-487f-abb7-f2ebb40dd0b4.png">
 
@@ -51,6 +53,7 @@ Graph Showing Species Count by indentifier:
 Graph showing species count based on State/Province
 <img width="947" alt="StackedGraph_States" src="https://user-images.githubusercontent.com/90479591/168454978-9b9fdeca-b08e-4f0b-8c90-80fa0b1f4d01.png">
 
+VISUALIZATIONS FOR BUTTERFLY DATASET
 Graph showing Maximum RW length by years: 
 ![Line Chart of Maximum RW length by years](https://user-images.githubusercontent.com/61089434/168660025-4a7991db-ae9e-4267-b04d-5497ab9f35d2.png)
 
