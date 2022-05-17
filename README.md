@@ -61,8 +61,10 @@ Graph showing Species count by plot type:
 Graph Showing Species Count by indentifier:
 <img width="949" alt="Graph_Identifier" src="https://user-images.githubusercontent.com/90479591/168454974-8e435237-3705-49a8-8484-c9bfc8490cdb.png">
 
-Graph showing species count based on State/Province
-<img width="947" alt="StackedGraph_States" src="https://user-images.githubusercontent.com/90479591/168454978-9b9fdeca-b08e-4f0b-8c90-80fa0b1f4d01.png">
+Graph showing species count based on State/Province:
+
+<img width="945" alt="Screen Shot 2022-05-17 at 5 53 37 PM" src="https://user-images.githubusercontent.com/90479591/168925207-baa7e86a-170b-453b-9463-284debaa3969.png">
+
 
 VISUALIZATIONS FOR BUTTERFLY DATASET
 
