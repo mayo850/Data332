@@ -27,6 +27,20 @@ Raw data was provided in the form of .csv and .xlsx, the contributers used R Stu
 
 Just download the library mentioned and run the program, it's as simple as that.
 
+###Libraries needed in R
+
+-for ladybug project just copy paste these:
+
+install.packages("tidyverse")
+install.packages("dplyr")
+install.packages("readxl")
+install.packages("lubridate")
+install.packages("ggplot2")
+install.packages("tidytext")
+install.packages("hrbrthemes")
+install.packages("viridis")
+
+
 
 
 ## Authors
