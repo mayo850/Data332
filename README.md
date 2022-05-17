@@ -27,27 +27,6 @@ Raw data was provided in the form of .csv and .xlsx, the contributers used R Stu
 
 Just download the library mentioned and run the program, it's as simple as that.
 
-### Libraries needed in R
-
--for ladybug project just copy paste these:
-
-install.packages("tidyverse")
-
-install.packages("dplyr")
-
-install.packages("readxl")
-
-install.packages("lubridate")
-
-install.packages("ggplot2")
-
-install.packages("tidytext")
-
-install.packages("hrbrthemes")
-
-install.packages("viridis")
-
-
 
 
 ## Authors
@@ -77,13 +56,24 @@ Graph showing species count based on State/Province
 
 VISUALIZATIONS FOR BUTTERFLY DATASET
 
-Line chart showing Maximum RW length by years: 
+Line chart showing Maximum RW length by years:
+
+We decided to use line chart for max RW length by years because we had alot of values so, it wouldn't be suitable to use other form of charts or graph.
+We wanted to track the small changes over short period of time which is easier to show in line chart. Moreover, last 75 years is a good amount of time to
+check max RW length.
+
 ![Line Chart of Maximum RW length by years](https://user-images.githubusercontent.com/61089434/168660025-4a7991db-ae9e-4267-b04d-5497ab9f35d2.png)
 
-Graph showing mean of LW Apex by country: 
+Graph showing mean of LW Apex by country:
+
+Our group was curious to see what affect does location have on butterflies so we made bar graph of LW apex by country to see that.
+
 ![Mean of LW Apex by country](https://user-images.githubusercontent.com/61089434/168660060-35058032-e176-45e9-91a8-11494d594c00.png)
 
-Graph showing mean of LW width by gender: 
+Graph showing mean of LW width by gender:
+
+Our group was curious to see how does gender affect characteristics of a butterflies so we made bar graph of LW width by gender to see that.
+
 ![Mean of LW width by gender](https://user-images.githubusercontent.com/61089434/168660100-a8173d14-8202-4424-81a3-2628679c72e6.png)
 
 
