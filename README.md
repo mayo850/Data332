@@ -1,9 +1,7 @@
 # Data332
 
 
-# TEAM UMI
-
-# Final Project
+# Team UMI Final Project
 
 This final assignment consists of two final projects; 
 1) Project-Insect Carnivore
