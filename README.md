@@ -13,6 +13,16 @@ Raw data was provided in the form of .csv and .xlsx, the contributers used R Stu
 
 ## Getting Started
 
+## data clean up 
+
+Our team struggled the most with data clean up and it is the most important part of any analysis. The reason we struggled so much was because we didn't know
+what kindoff information we needed to present with the visualizations. Moreover, there were alot of rows in data sets so it is was hard to point out if the column of 
+data is clean or not. To tackle this problem we collaborated as a team and first walk through the columns together to see if the data in them is clean or not.
+Then we used filters in R, mutate function, select function, conditional statements and packages such as dplyr to clean both the datasets. In butterfly data set merge
+function was used which is similar to vlook up in excel. This function was used to look up ID in the data set that wasn't tidy and then took columns from that data set
+and joined them to tidy dataset. Lady bug dataset had alot of data which wasn't in correct format such as state had 'IA' and 'Ia' these were changed to 'Iowa' by 
+the help of ifelse statement. This was helpful for making graphs with correct labels.
+
 ### Dependencies
 
 * R or R Studio the collaborators of this project specifically used R Studio.
