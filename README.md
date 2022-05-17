@@ -46,7 +46,6 @@ Azee
 VISUALIZATIONS FOR LADY BUG DATASET
 
 Graph showing Species count by plot type:
-  The following graph shows the count of different species, grouping by plot kind. Plots are as followed; LP-AG, LP-GA, LP-GF, LP-GM, LP-GU, LP-IC and LP-PR
 <img width="949" alt="Count_Species_Plot" src="https://user-images.githubusercontent.com/90479591/168454969-751d44fb-a528-487f-abb7-f2ebb40dd0b4.png">
 
 Graph Showing Species Count by indentifier:
@@ -61,19 +60,23 @@ Line chart showing Maximum RW length by years:
 
 We decided to use line chart for max RW length by years because we had alot of values so, it wouldn't be suitable to use other form of charts or graph.
 We wanted to track the small changes over short period of time which is easier to show in line chart. Moreover, last 75 years is a good amount of time to
-check max RW length.
+check max RW length. We found out that the max RW length has decreased compared to 1950s
 
 ![Line Chart of Maximum RW length by years](https://user-images.githubusercontent.com/61089434/168660025-4a7991db-ae9e-4267-b04d-5497ab9f35d2.png)
 
 Graph showing mean of LW Apex by country:
 
-Our group was curious to see what affect does location have on butterflies so we made bar graph of LW apex by country to see that.
+Our group was curious to see what affect does location have on butterflies so we made bar graph of mean of LW apex by country to see that. 
+We found out from the graph that the countries that have high temps with alot of rain have high avg of LW apex. This could be because it is 
+hard for butterflies to survive in cold weather.
 
 ![Mean of LW Apex by country](https://user-images.githubusercontent.com/61089434/168660060-35058032-e176-45e9-91a8-11494d594c00.png)
 
 Graph showing mean of LW width by gender:
 
-Our group was curious to see how does gender affect characteristics of a butterflies so we made bar graph of LW width by gender to see that.
+Our group was curious to see how does gender affect characteristics of a butterfly so we made bar graph of mean of
+LW width by gender to see that. The graph showed that female have high mean LW width compared to male this could be because females have to 
+take care of their babies so they use their long wings to protect them.
 
 ![Mean of LW width by gender](https://user-images.githubusercontent.com/61089434/168660100-a8173d14-8202-4424-81a3-2628679c72e6.png)
 
